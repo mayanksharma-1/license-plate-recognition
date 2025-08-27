@@ -1,4 +1,5 @@
 scikit-image
 numpy
-localization
-shapely
+matplotlib
+scikit-learn
+pandas
